@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Timur! 👋
 
-<!--
-**TimurRashitov/TimurRashitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Fullstack Developer | Java & Spring Boot | React & TypeScript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий
+
+- **Backend:** Java (Core, 17+), Spring Boot, Spring Security, REST APIs, JPA / Hibernate.
+- **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3.
+- **Datenbanken:** PostgreSQL, MongoDB, H2, Liquibase.
+- **Tools & DevOps:** Git, GitHub, Docker, JUnit, Maven.
+
+---
+
+### 📊 Моя активность на GitHub
+![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurRashitov&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurRashitov&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 📫 Как со мной связаться:
+- **Email:** [timurrrashitov@gmail.com](mailto:timurrrashitov@gmail.com)
+
