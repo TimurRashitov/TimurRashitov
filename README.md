@@ -12,11 +12,6 @@
 
 ---
 
-### 📊 Моя активность на GitHub
-![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurRashitov&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurRashitov&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 📫 Как со мной связаться:
 - **Email:** [timurrrashitov@gmail.com](mailto:timurrrashitov@gmail.com)
