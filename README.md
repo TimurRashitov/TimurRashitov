@@ -3,7 +3,7 @@
 ### 🚀 Fullstack Developer | Java & Spring Boot | React & TypeScript
 
 
-### 🛠 Мой стек технологий
+### 🛠 Tech Stack
 
 - **Backend:** Java (Core, 17+), Spring Boot, Spring Security, REST APIs, JPA / Hibernate.
 - **Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3.
@@ -13,6 +13,6 @@
 ---
 
 
-### 📫 Как со мной связаться:
+### 📫 Contact Me:
 - **Email:** [timurrrashitov@gmail.com](mailto:timurrrashitov@gmail.com)
 
