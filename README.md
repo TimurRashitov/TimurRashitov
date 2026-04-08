@@ -2,6 +2,8 @@
 
 ### 🚀 Fullstack Developer | Java & Spring Boot | React & TypeScript
 
+I am a DEKRA-certified Fullstack Developer with a solid engineering background and a proven track record of managing a small business. My experience in running a business has shaped my ability to communicate effectively with clients and deliver result-oriented solutions. I combine technical precision with a strong understanding of client needs to build robust backends and clean, intuitive frontends.
+
 
 ### 🛠 Tech Stack
 
